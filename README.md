@@ -1,8 +1,26 @@
 <div align="center">
 
-<img src="logo-webjo.png" alt="Logótipo Web.Jo Digital" width="320">
+<img src="logo-webjo.png" alt="Logótipo Web.Jo Digital" width="350">
 
 # WEB.JO DIGITAL
+
+### O SEU PORTAL PARA O MUNDO WEB
+
+**Transformamos ideias em soluções digitais.**
+
+Criação de websites profissionais, gestão de páginas nas redes sociais, digitalização de empresas e soluções tecnológicas para negócios.
+
+---
+
+🌐 **Criação de Websites** · 📱 **Gestão de Redes Sociais** · 💻 **Digitalização de Empresas** · ⚙️ **Aplicações Digitais**
+
+📍 Luanda, Angola
+
+**Vamos levar o seu negócio mais longe no mundo digital!**
+
+</div>
+
+# WEB.JO.DIGITAL
 
 ### O SEU PORTAL PARA O MUNDO WEB
 
