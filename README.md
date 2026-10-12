@@ -199,11 +199,11 @@ A Web.Jo Digital está disponível para conversar consigo sobre soluções digit
 
 **Localização:** Luanda, Angola
 
-- **WhatsApp:** [Coloque aqui o seu link do WhatsApp](https://whatsapp.com/channel/0029Vb8VE9nIN9issY7Aui0r)
-- **Facebook:** [Coloque aqui o link da sua página](https://www.facebook.com/61594044372891/posts/122105263035468145/)
-- **Instagram:** [Coloque aqui o link da sua página](https://www.instagram.com/web.jodigital?stkn=MXBqMzh3cTEwYXpiNg==)
-- **TikTok:** [Coloque aqui o link da sua página](http://tiktok.com/@web.jo.digital)
-- **YouTube:** [Coloque aqui o link do seu canal(https://www.youtube.com/@Web.jo.Digital)
+- **WhatsApp:** (https://whatsapp.com/channel/0029Vb8VE9nIN9issY7Aui0r)
+- **Facebook:** ](https://www.facebook.com/61594044372891/posts/122105263035468145/)
+- **Instagram:** (https://www.instagram.com/web.jodigital?stkn=MXBqMzh3cTEwYXpiNg==)
+- **TikTok:** (http://tiktok.com/@web.jo.digital)
+- **YouTube:**(https://www.youtube.com/@Web.jo.Digital)
 - **E-mail:** web.jo.digital@gmail.com.
 - **Website:** web.jo.
 
