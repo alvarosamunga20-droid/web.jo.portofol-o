@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="logo-webjo.png" alt="Logótipo Web.Jo Digital" width="350">
 
 # WEB.JO DIGITAL
 
